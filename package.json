@@ -1,0 +1,22 @@
+{
+  "name": "@sample/svillegasz-npm-private",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://localhost/artifactory/api/npm/npm/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svillegasz/npm-private.git"
+  },
+  "author": "Sebastian Villegas (svillegasz@psl.com.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svillegasz/npm-private/issues"
+  },
+  "homepage": "https://github.com/svillegasz/npm-private#readme"
+}
